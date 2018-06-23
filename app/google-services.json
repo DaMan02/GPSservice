@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "505929131162",
+    "firebase_url": "https://gpsservics.firebaseio.com",
+    "project_id": "gpsservics",
+    "storage_bucket": "gpsservics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505929131162:android:a9fce56148f62026",
+        "android_client_info": {
+          "package_name": "com.dayal.gpsbgservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505929131162-5raillk86b3v4fqf4o1csvnkga5bbu6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dayal.gpsbgservice",
+            "certificate_hash": "96bbe17b30bc0f4e76600cd1fcd7d5d74b8783b7"
+          }
+        },
+        {
+          "client_id": "505929131162-a53mglk37p2incfstqjjh0c0brnljo0k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "505929131162-a53mglk37p2incfstqjjh0c0brnljo0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxluNqWBWfYxxQfsjXxgMq7VJIxIXNhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505929131162-a53mglk37p2incfstqjjh0c0brnljo0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
